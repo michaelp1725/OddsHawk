@@ -1,0 +1,1 @@
+PlayerStatistics.csv & TeamStatistics.csv are being held locally and can be found at [this link.](https://www.kaggle.com/datasets/eoinamoore/historical-nba-data-and-player-box-scores?resource=download&select=TeamStatistics.csv)
