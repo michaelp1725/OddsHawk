@@ -1,2 +1,18 @@
-data/PlayerStatistics_placeholder.csv
-data/TeamStatistics_placeholder.csv
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data files (do not upload CSVs)
+data/raw/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
